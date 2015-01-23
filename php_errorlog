@@ -1,0 +1,2 @@
+[18-Jan-2015 11:33:08 CST6CDT] PHP Fatal error:  Call to a member function userdata() on a non-object in /home/mohdalom/public_html/rp/application/controllers/test.php on line 10
+[18-Jan-2015 11:34:52 CST6CDT] PHP Fatal error:  Call to a member function set_userdata() on a non-object in /home/mohdalom/public_html/rp/application/controllers/auth.php on line 11
